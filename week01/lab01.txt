@@ -20,3 +20,5 @@ drwxr-xr-x  2 galih.priyambodho StafCS 4096 Feb 18 05:44 week09
 drwxr-xr-x  2 galih.priyambodho StafCS 4096 Feb 18 05:44 week10
 drwxr-xr-x  2 galih.priyambodho StafCS 4096 Feb 18 05:45 xtra
 /home/fasilkom/mahasiswa/g/galih.priyambodho/os171/week01
+Today is 18 Feb 2017 at 06:17:20
+Today is 18 Feb 2017 at 06:17:26
